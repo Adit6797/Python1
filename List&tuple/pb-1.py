@@ -1,0 +1,12 @@
+list=[]
+f1=input("Enter first value: ")
+list.append(f1)
+f2=input("Enter second value: ")
+list.append(f2)
+f3=input("Enter third value: ")
+list.append(f3)
+f4=input("Enter fourth value: ")
+list.append(f4)
+f5=input("Enter fifth value: ")
+list.append(f5)
+print("The list is:",list)
