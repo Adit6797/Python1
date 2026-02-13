@@ -1,8 +1,2 @@
-name=input("enter your username:")
-
-len=len(name)
-
-if(len<=10):
-    print("username is valid")
-else:
-    print("username is too long")
+for i in range(1,10001):
+    print(f"{i} I love Hagodiii")
